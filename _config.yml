@@ -1,0 +1,28 @@
+name: screenshot
+favicon: null
+layout_spectrum: 0.3110928509850055
+typography_spectrum: 0.9805444434750825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03760713338851929
+  lightness: 0.15551386633887887
+  saturation: 0.7171697008889169
+  rhythmicContrast: 0.49321187916211784
+purpose: []
